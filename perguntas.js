@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Astronomia',
+    'Qual o maior planeta do Sistema Solar?,
+    'O maior planeta do sistema solar é Júpiter.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Astronomia',
+    'Qual planeta é conhecido como "Estrela D'Alva"?',
+    'Vênus.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Astronomia',
+    'Qual planeta não tem nome de divindade romana/grega?',
+    'A Terra'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Astronomia',
+    'Qual planeta não tem nome de divindade romana/grega?',
+    'Marte'
 )
